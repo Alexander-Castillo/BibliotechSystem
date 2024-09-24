@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nombre": "Alexander Castillo",
+        "rol": "prestatario",
+        "prestados": [
+            {
+                "id": 2,
+                "titulo": "El Principito",
+                "autor": "Antoine de Saint-Exup\u00e9ry",
+                "categoria": "Infantil",
+                "status": "prestado"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "Mar\u00eda L\u00f3pez",
+        "rol": "prestatario",
+        "prestados": [
+            {
+                "id": 3,
+                "titulo": "Cien A\u00f1os de Soledad",
+                "autor": "Gabriel Garc\u00eda M\u00e1rquez",
+                "categoria": "Realismo M\u00e1gico",
+                "status": "prestado"
+            }
+        ]
+    }
+]
